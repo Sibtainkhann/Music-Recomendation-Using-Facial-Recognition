@@ -29,11 +29,5 @@ To run the app, type following command in terminal.
 
 ## Authors
 
-- [Anish Kumar](https://github.com/Anishkumar31/PROJECT)
-
-
-
-## Support
-
-For support, email anishkumar31804@gmail.com 
+- [Md Sibtain Raza Khan](https://github.com/Sibtainkhann/Music-Recomendation-Using-Facial-Recognition)
 
